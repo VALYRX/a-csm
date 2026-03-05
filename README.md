@@ -72,3 +72,11 @@ Independent AI Safety Researcher
 - ORCID: [0009-0002-6597-7245](https://orcid.org/0009-0002-6597-7245)
 - IEEE Member (No. 102124292)
 - APA Member 2026 (No. C2505666474)
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+```text
+Copyright 2026 Valyrx Labs (ZON RZVN)
+```
